@@ -1,3 +1,4 @@
+
 # horiseon-refractor-remodel
-Module 1 
-Weekly Challenge number 1.
+Improving the accessibility to Horiseon webpage.
+Improving the structure of the html and style sheet for easier use for developers
